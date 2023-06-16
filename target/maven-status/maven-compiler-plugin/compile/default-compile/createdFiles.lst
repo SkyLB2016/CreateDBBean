@@ -1,0 +1,5 @@
+com/sky/mybatis/utils/GeneratorDisplay.class
+com/sky/mappers/MyMapper.class
+com/sky/mapper/PerMapper.class
+com/sky/bean/Per.class
+com/sky/Test.class
